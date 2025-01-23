@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Capirchio_Mathematics", "Capirchio_Mathematics.csproj", "{AC5531A0-739C-455B-9BED-DF5C0C9244F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mathematics.Test", "..\Mathematics.Test\Mathematics.Test.csproj", "{C2EDF906-5B7F-44B5-967D-243424964B52}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC5531A0-739C-455B-9BED-DF5C0C9244F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC5531A0-739C-455B-9BED-DF5C0C9244F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC5531A0-739C-455B-9BED-DF5C0C9244F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC5531A0-739C-455B-9BED-DF5C0C9244F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2EDF906-5B7F-44B5-967D-243424964B52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2EDF906-5B7F-44B5-967D-243424964B52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2EDF906-5B7F-44B5-967D-243424964B52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2EDF906-5B7F-44B5-967D-243424964B52}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B017E426-DC07-462B-B6B9-51412D7F5FC0}
+	EndGlobalSection
+EndGlobal
