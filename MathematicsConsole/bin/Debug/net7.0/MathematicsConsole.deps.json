@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "MathematicsConsole/1.0.0": {
+        "dependencies": {
+          "Capirchio_Mathematics": "1.0.0"
+        },
+        "runtime": {
+          "MathematicsConsole.dll": {}
+        }
+      },
+      "Capirchio_Mathematics/1.0.0": {
+        "runtime": {
+          "Capirchio_Mathematics.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MathematicsConsole/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Capirchio_Mathematics/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
